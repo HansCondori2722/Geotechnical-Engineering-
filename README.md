@@ -3,7 +3,7 @@
   <br/><br/>
   <strong>Apuntes técnicos · Investigación académica · Modelamiento numérico</strong>
   <br/><br/>
-  <a href="#colección-técnica">Explorar contenidos</a> · <a href="#investigación-académica">Investigación</a> · <a href="#sobre-este-repositorio">Acerca del repositorio</a>
+  <a href="#presentaciones">Presentaciones</a> · <a href="#códigos">Códigos</a> · <a href="#investigación-académica">Investigación</a>
 </div>
 
 ---
@@ -14,16 +14,31 @@ Me interesan la **ingeniería geotécnica**, las **obras subterráneas** y el **
 
 > **Enfoque:** comprender los fundamentos físicos de cada análisis, justificar los parámetros adoptados e interpretar los resultados más allá del software.
 
-## Colección técnica
+## Presentaciones
 
-| Área | Contenido | Acceso |
-|:--|:--|:--|
-| 🧩 **Mecánica del medio continuo** | Estados de esfuerzos y deformaciones; elasticidad y relaciones constitutivas. | [Explorar](01-Mecanica-del-Medio-Continuo/README.md) |
-| 🏗️ **Obras subterráneas** | Notas sobre estructuras enterradas, métodos de análisis e interacción suelo–estructura. | [Explorar](02-Obras-Subterraneas/README.md) |
-| 📐 **Modelos constitutivos** | Fundamentos y aplicaciones de modelos de comportamiento del suelo. | [Explorar](03-Modelos-Constitutivos/README.md) |
-| 💻 **PLAXIS y Python** | Proyectos académicos, automatización y procesamiento de resultados. | [Explorar](04-PLAXIS-y-Python/README.md) |
+Apuntes técnicos y presentaciones en **PDF**, organizados para su consulta. Las versiones convertidas están preparadas y pendientes de subir al repositorio.
 
-**Estado:** la estructura del portafolio está publicada; las presentaciones y documentos se incorporarán progresivamente después de su revisión.
+| N.º | Tema |
+|:--:|:--|
+| 01 | Introducción a elementos finitos |
+| 02 | Mecánica del medio continuo |
+| 03 | Teoría de la elastoplasticidad |
+| 04 | Comportamiento del suelo |
+| 05 | Modelos constitutivos |
+| 06 | PLAXIS: elementos estructurales |
+| 07 | Introducción a PLAXIS |
+
+**[Explorar la sección Presentaciones →](Presentaciones/README.md)**
+
+## Códigos
+
+Scripts y notebooks de **Python y PLAXIS 2D**: caracterización geotécnica, procesamiento de señales, automatización y resultados. Los materiales se irán incorporando después de revisar su contenido y los permisos de publicación.
+
+**[Explorar la sección Códigos →](Codigos/README.md)**
+
+## Áreas de especialización
+
+[Mecánica del medio continuo](01-Mecanica-del-Medio-Continuo/README.md) · [Obras subterráneas](02-Obras-Subterraneas/README.md) · [Modelos constitutivos](03-Modelos-Constitutivos/README.md) · [PLAXIS y Python](04-PLAXIS-y-Python/README.md)
 
 ## Investigación académica
 
